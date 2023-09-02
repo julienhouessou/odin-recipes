@@ -6,3 +6,4 @@ p{text-align: justify;}
 .ingredients{background-color: beige;}
 .steps{background-color: blanchedalmond;}
 .description{background-color: lemonchiffon;}
+.page.image{border-style:ridge; border-radius: 2px; border-color: brown;}
