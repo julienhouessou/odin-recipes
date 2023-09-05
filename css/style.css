@@ -9,4 +9,4 @@ p{text-align: justify;}
 .page.image{border-style:double; border-width: 3px; border-color: brown; margin-left: auto; margin-right: auto; display:block; margin-bottom: 10px;}
 .main.list{list-style-type: none; display: table; margin: 0 auto;}
 div{padding: 3px; text-align: center;border-color: brown}
-.main.list li{display: inline;}
+.main.list li{display: inline-block;}
