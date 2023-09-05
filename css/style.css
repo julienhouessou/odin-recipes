@@ -1,4 +1,4 @@
-h1{font-family: 'Kanit', sans-serif;color: rgba(142, 114, 4, 0.989); font-weight: 400;}
+h1{font-family: 'Kanit', sans-serif;color: rgba(142, 114, 4, 0.989); font-weight: 400;width: auto; margin: auto;}
 h2{font-family: 'Space Grotesk', sans-serif; color: rgb(108, 53, 2);}
 p{text-align: justify;}
 .main.list img{height: 200px; width: auto; border-style: solid; border-radius: 3px; border-color: black;} 
