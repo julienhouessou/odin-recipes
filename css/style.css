@@ -1,9 +1,12 @@
-h1{font-family: 'Kanit', sans-serif;color: rgba(142, 114, 4, 0.989); font-weight: 400;width: auto; margin: auto;}
+h1{font-family: 'Kanit', sans-serif;color: rgba(142, 114, 4, 0.989); font-weight: 400;text-align: center;}
 h2{font-family: 'Space Grotesk', sans-serif; color: rgb(108, 53, 2);}
 p{text-align: justify;}
-.main.list img{height: 200px; width: auto; border-style: solid; border-radius: 3px; border-color: black;} 
+.main.list img{height: 200px; border-style: double; border-width: 4px; border-color: black; padding: 2px;} 
 #title{text-align: center; font-weight: 900;}
 .ingredients{background-color: beige;}
 .steps{background-color: blanchedalmond;}
 .description{background-color: lemonchiffon;}
-.page.image{border-style:ridge; border-radius: 2px; border-color: brown;}
+.page.image{border-style:double; border-width: 3px; border-color: brown; margin-left: auto; margin-right: auto; display:block; margin-bottom: 10px;}
+.main.list{list-style-type: none; display: table; margin: 0 auto;}
+div{padding: 3px; text-align: center;border-color: brown}
+.main.list li{display: inline;}
